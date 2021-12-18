@@ -1,0 +1,10 @@
+body{
+    display: grid;
+}
+h1{
+    background-color: #f00;
+}
+table{
+    display:grid;
+    position: relative;
+}
